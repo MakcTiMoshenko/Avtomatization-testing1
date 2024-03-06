@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a26890b8-fb2e-4bb3-be7e-d47b920d1a39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/main/java/org/max/demo/ExampleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/main/java/org/max/home/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/main/java/org/max/home/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/main/java/org/max/home/PlayGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/main/java/org/max/home/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/main/java/org/max/homework/MountyHoll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/main/java/org/max/seminar/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/main/java/org/max/seminar/Casino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/main/java/org/max/seminar/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/main/java/org/max/seminar/DeckService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/main/java/org/max/seminar/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/main/java/org/max/seminar/Gamer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/main/java/org/max/seminar/PlayGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/main/java/org/max/seminar/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/main/java/org/max/seminar/exception/DeckEmptyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/main/java/org/max/seminar/type/Ranks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/main/java/org/max/seminar/type/Suits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/test/java/org/max/demo/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/test/java/org/max/demo/AssertionsDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/test/java/org/max/demo/AssumptionsDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/test/java/org/max/demo/ExampleLFDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/test/java/org/max/demo/ParametrizedDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/test/java/org/max/home/GameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/test/java/org/max/homework/MountyHollTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/test/java/org/max/seminar/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/test/java/org/max/seminar/DeckServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/test/java/org/max/seminar/DeckTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/test/java/org/max/seminar/GamePlayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/test/java/org/max/seminar/GameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automatisation-Seminar1/src/test/resources/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/db/demo/migration/V1_1_0__add_employee_info.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/db/demo/migration/V2_1_0__add_employee.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/db/home/migration/V1_1_0__add_product.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/db/home/migration/V2_1_0__add_customers.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/db/home/migration/V3_1_0__add_order.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/db/home/migration/V4_1_0__add_orders_products.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/db/home/migration/V5_1_0__add_courier.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/db/home/migration/V6_1_0__delivery.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/db/seminar/migration/V1_1_0__add_client.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/db/seminar/migration/V2_1_0__add_emploee.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/db/seminar/migration/V3_1_0__add_debit.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/db/seminar/migration/V4_1_0__add_current.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/db/seminar/migration/V5_1_0__add_credit.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/db/seminar/migration/V6_1_0__add_new_emploee_record.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/db/seminar/migration/V6_1_1__add_new_employee_records.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/home.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/org.max.home.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/seminar.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/max/demo/EmployeeEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/max/demo/EmployeeEntityBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/max/demo/EmployeeInfoEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/max/demo/MainDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/max/home/CourierInfoEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/max/home/CustomersEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/max/home/DeliveryEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/max/home/MainHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/max/home/OrdersEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/max/home/OrdersProductsEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/max/home/OrdersProductsEntityPK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/max/home/ProductsEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/max/seminar/ClientEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/max/seminar/CreditEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/max/seminar/CurrentEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/max/seminar/DebitEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/max/seminar/EmployeeEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/java/org/max/seminar/MainHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/test/java/org/max/home/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/test/java/org/max/home/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/test/java/org/max/seminar/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/test/java/org/max/seminar/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/test/java/org/max/seminar/CreditTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/test/java/org/max/seminar/CurrentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/test/java/org/max/seminar/DebitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vvedenie_v_avtomation_testing/src/test/java/org/max/seminar/EmployeeTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2d4yHPBJupCM44A3EC1OHfwiC79" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/macbook/IdeaProjects",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a26890b8-fb2e-4bb3-be7e-d47b920d1a39" name="Changes" comment="" />
+      <created>1709281556285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709281556285</updated>
+      <workItem from="1709281557417" duration="84000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
